@@ -12,7 +12,7 @@ They are obviously unacceptable for a real game.
 
 ## The Problem
 Let me phrase the problem:
-**rigitbody movement is too ***floaty*** and **transform movement is too ***stiff*** (it has other limitations too, but let's ignore them for the sake of argument)
+**rigitbody movement is too ***floaty***** and **transform movement is too ***stiff***** (it has other limitations too, but let's ignore them for the sake of argument)
 
 ## Possible Solutions
 In Unity there are many values to tweak and adjust. Here are some examples:
