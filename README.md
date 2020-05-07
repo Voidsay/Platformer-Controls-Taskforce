@@ -19,6 +19,8 @@ In Unity there are many values to tweak and adjust. Here are some examples:
 - use rigidbody controls and increase friction/drag
 - use a different force mode (chage impulse to velocity...)
 - create a more refined script
+- change the scale
+- tinker with global physics settings
 
 ## Discussions
 https://ldjam.com/events/ludum-dare/46/dr-statnils-dodo-egg/$209796
