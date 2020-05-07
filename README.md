@@ -8,7 +8,7 @@ There isn't much here yet.
 In BareMinimum you can find some Unity files that form the basis for the project.
 
 To start with somethin I already prepared two shitty control/movement scripts (try them)
-They are obviusly unaxaptable for a real game.
+They are obviously unacceptable for a real game.
 
 ## The Problem
 Let me phrase the problem:
