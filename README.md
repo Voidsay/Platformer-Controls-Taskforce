@@ -24,6 +24,6 @@ In Unity there are many values to tweak and adjust. Here are some examples:
 
 ## Progress
 After some research I have finished an improved control script. There are still issues with jumping. I will look into them soon. While I was at it I also found a neat keybind menu script.
-Both can be found int the LatestBuild.
+Both can be found int the LatestBuild. For convenience there is a compiled windows version in the QuickTest folder.
 ## Discussions
 https://ldjam.com/events/ludum-dare/46/dr-statnils-dodo-egg/$209796
